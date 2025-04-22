@@ -5,7 +5,7 @@ This repository contains an implementation of the Apriori algorithm for mining f
 ## 📂 Project Structure
 
 - `apriory_coffee_shop.ipynb`: Main script containing the implementation of the Apriori algorithm that implement on notebook.
-- `transactions.csv`: Sample dataset containing transactional data.
+- `dataset.xlsx`: Sample dataset containing transactional data.
 - `README.md`: Project documentation.
 
 ## 🚀 Getting Started
